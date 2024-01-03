@@ -4,3 +4,4 @@ dphy are used at csi subsystem and dsi subsystem for mamy multi-media applicatio
 this is a 4 lane dphy loopback project which use dphy tx tramsmit the pattern to dphy rx  
 following I will explain the detail of this project  
 
+![alt text](https://github.com/joshuahwfwEE/xilinx-dphy-loopback/blob/main/dphy.png?raw=true)
