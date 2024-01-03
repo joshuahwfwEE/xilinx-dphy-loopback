@@ -8,3 +8,5 @@ following is the block diagram
 base on this project it can be used in the implementation of some subsystem ip:  
 for example csi/dsi tx or csi/dsi rx subsystem:  
 ![alt text](https://github.com/joshuahwfwEE/xilinx-dphy-loopback/blob/main/dphy.png?raw=true)  
+following is dphy tx's architcture:  
+![alt text](https://github.com/joshuahwfwEE/xilinx-dphy-loopback/blob/main/dphytx.png?raw=true)  
