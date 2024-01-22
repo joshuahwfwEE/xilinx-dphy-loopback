@@ -5,7 +5,7 @@ dphy are used at csi subsystem and dsi subsystem for mamy multi-media applicatio
 this is a 4 lane dphy loopback project which use dphy tx tramsmit the pattern to dphy rx 
 the mipi_dphy_frm_gen in tx side will generate the PPI signal to control the dphy lanes seperately and mipi_dphy_frm_chk in rx side will restore the mipi sigal into PPI signal and vaildate the behavior 
 following is the dphy loopback block diagram   
-![alt text](https://github.com/joshuahwfwEE/xilinx-dphy-loopback/blob/main/dphy1.png?raw=true)  
+![alt text](https://github.com/joshuahwfwEE/xilinx-dphy-loopback/blob/main/bd1.png?raw=true)  
 base on this project it can be used in the implementation of some subsystem ip: for example csi/dsi tx or csi/dsi rx subsystem:  
 following is dphy tx's architcture in ultrascale+:  
 ![alt text](https://github.com/joshuahwfwEE/xilinx-dphy-loopback/blob/main/dphytx.png?raw=true)  
