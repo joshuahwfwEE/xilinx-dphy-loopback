@@ -19,6 +19,6 @@ mode:
 
 
 implement a dphy_frm: which inculd the pattern gen part and receive check part  
-1 lane relative to a dphy_frm, if using 4 lanes xilinx dphy module, it will need 4 dphy_frm
+1 lane relative to a dphy_frm, if using 4 lanes xilinx dphy module, it will need 4 dphy_frm  
 dphy_frm_gen:  
 dphy_frm_chk:  
