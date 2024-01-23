@@ -17,3 +17,8 @@ mode:
 2. esc mode
 3. ulps mode
 
+
+implement a dphy_frm: which inculd the pattern gen part and receive check part  
+
+dphy_frm_gen:  
+dphy_frm_chk:  
